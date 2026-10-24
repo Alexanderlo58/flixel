@@ -138,7 +138,7 @@ class FlxText extends FlxSprite
 	 * 
 	 * **NOTE:** Fixed height has no effect if `autoSize = true`.
 	 */
-	 public var fieldHeight(get, set):Float;
+	public var fieldHeight(get, set):Float;
 
 	/**
 	 * Whether the `fieldWidth` and `fieldHeight` should be determined automatically. 
